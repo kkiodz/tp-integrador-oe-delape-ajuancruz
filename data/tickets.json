@@ -1,0 +1,12 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "usuario": "Juan Perez",
+      "categoria": "software",
+      "descripcion": "No puedo abrir Excel",
+      "estado": "cerrado",
+      "solucion": "Reiniciar PC y volver a abrir"
+    }
+  ]
+}

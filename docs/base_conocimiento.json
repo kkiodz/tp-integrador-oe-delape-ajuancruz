@@ -1,0 +1,24 @@
+{
+  "software": [
+    {
+      "palabra_clave": "excel",
+      "solucion": "Reiniciá Excel o repará la instalación desde Panel de Control."
+    },
+    {
+      "palabra_clave": "correo",
+      "solucion": "Verificá tu conexión a Internet y reiniciá Outlook."
+    }
+  ],
+  "acceso": [
+    {
+      "palabra_clave": "contraseña",
+      "solucion": "Usá la opción 'Olvidé mi contraseña'."
+    }
+  ],
+  "hardware": [
+    {
+      "palabra_clave": "impresora",
+      "solucion": "Derivar a N2 - Revisión física."
+    }
+  ]
+}
