@@ -2,11 +2,28 @@
   "tickets": [
     {
       "id": 1,
-      "usuario": "Juan Perez",
+      "usuario": "juan",
       "categoria": "software",
-      "descripcion": "No puedo abrir Excel",
+      "descripcion": "excel",
       "estado": "cerrado",
-      "solucion": "Reiniciar PC y volver a abrir"
+      "solucion": "Reiniciá Excel. Si no funciona, repará la instalación desde Panel de Control > Programas > Microsoft Office > Modificar > Reparación rápida."
+    },
+    {
+      "id": 2,
+      "usuario": "juan",
+      "categoria": "software",
+      "descripcion": "no me abre el excel",
+      "estado": "cerrado",
+      "solucion": "Reiniciá Excel. Si no funciona, repará la instalación desde Panel de Control > Programas > Microsoft Office > Modificar > Reparación rápida."
+    },
+    {
+      "id": 3,
+      "usuario": "juan",
+      "categoria": "acceso",
+      "descripcion": "sabes que me olvide mi contraseña, me ayudas?",
+      "estado": "cerrado",
+      "solucion": "Usá el botón 'Olvidé mi contraseña'."
     }
-  ]
+  ],
+  "contador": 4
 }

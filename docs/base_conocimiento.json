@@ -1,24 +1,20 @@
 {
   "software": [
-    {
-      "palabra_clave": "excel",
-      "solucion": "Reiniciá Excel o repará la instalación desde Panel de Control."
-    },
-    {
-      "palabra_clave": "correo",
-      "solucion": "Verificá tu conexión a Internet y reiniciá Outlook."
-    }
+    {"palabra_clave": "excel", "solucion": "Reiniciá Excel. Si no funciona, repará la instalación desde Panel de Control > Programas > Microsoft Office > Modificar > Reparación rápida."},
+    {"palabra_clave": "word", "solucion": "Cerralo y abrilo de nuevo. Si el problema persiste, reiniciá la PC."},
+    {"palabra_clave": "correo", "solucion": "Verificá tu conexión a Internet y reiniciá Outlook. Si sigue sin andar, contactá a redes."},
+    {"palabra_clave": "sistema", "solucion": "Reiniciá el sistema. Si el error persiste, anotá el código de error y avisá a sistemas."}
   ],
   "acceso": [
-    {
-      "palabra_clave": "contraseña",
-      "solucion": "Usá la opción 'Olvidé mi contraseña'."
-    }
+    {"palabra_clave": "contraseña", "solucion": "Usá el botón 'Olvidé mi contraseña'."},
+    {"palabra_clave": "usuario", "solucion": "Verificá que estés usando el usuario correcto. Si no, pedí creación de cuenta a sistemas."},
+    {"palabra_clave": "permiso", "solucion": "Solicitá el permiso a tu jefe directo. Una vez aprobado, sistemas lo habilita en 24hs."}
   ],
   "hardware": [
-    {
-      "palabra_clave": "impresora",
-      "solucion": "Derivar a N2 - Revisión física."
-    }
+    {"palabra_clave": "impresora", "solucion": "Derivar a Nivel 2 - Revisión física."},
+    {"palabra_clave": "pc", "solucion": "Derivar a Nivel 2 - Diagnóstico de hardware."},
+    {"palabra_clave": "computadora", "solucion": "Derivar a Nivel 2 - Diagnóstico de hardware."},
+    {"palabra_clave": "monitor", "solucion": "Derivar a Nivel 2 - Revisión de conexiones y componentes."},
+    {"palabra_clave": "red", "solucion": "Derivar a Nivel 2 - Revisión de red y routers."}
   ]
 }
