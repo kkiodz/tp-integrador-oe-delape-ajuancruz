@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ConversationHandler, ContextTypes
 
 # ==================== CONFIGURACION DEL BOT ====================
-TOKEN = "8833736318:AAElTullAagHuGNnwzjWRQrJ0EJzedtT80k"
+TOKEN = "TOKEN"
 
 # ==================== RUTAS DE ARCHIVOS ====================
 BASE_DIR = Path(__file__).parent.parent
