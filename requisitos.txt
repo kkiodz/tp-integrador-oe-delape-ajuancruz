@@ -1,0 +1,7 @@
+# Requisitos previos del entorno (no se instalan con pip):
+# - Python 3.10 o superior instalado en el sistema
+# - pip (gestor de paquetes de Python) actualizado
+# - Conexion a Internet para que el bot pueda comunicarse con la API de Telegram
+
+# Dependencias del proyecto:
+python-telegram-bot>=20.0
