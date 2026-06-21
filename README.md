@@ -31,7 +31,7 @@ Las carpetas `docs/` y `data/` se generan automáticamente la primera vez que se
 1. Clonar el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/kkiodz/tp-integrador-oe-delape-ajuancruz.git
 cd proyecto
 ```
 
